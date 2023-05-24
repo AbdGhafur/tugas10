@@ -3,6 +3,18 @@
 A new Flutter project.
 
 ## Getting Started
+Tampilan Awal
+![image](https://github.com/AbdGhafur/tugas10/assets/92065915/6c10bc32-4721-423b-acb1-4516249c0de4)
+
+Animasi 1
+![image](https://github.com/AbdGhafur/tugas10/assets/92065915/7f7ee851-b66a-4041-a84f-5a2a6a8f5681)
+
+
+Animasi 2
+![image](https://github.com/AbdGhafur/tugas10/assets/92065915/a8b4e33b-36da-4ee4-acd0-1204191a03ec)
+
+
+
 
 This project is a starting point for a Flutter application.
 
