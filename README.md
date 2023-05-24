@@ -11,7 +11,9 @@ Animasi 1
 
 
 Animasi 2
-![image](https://github.com/AbdGhafur/tugas10/assets/92065915/a8b4e33b-36da-4ee4-acd0-1204191a03ec)
+![image](https://github.com/AbdGhafur/tugas10/assets/92065915/41fc3bb4-c903-4ab2-a196-9ae7c1b10205)
+
+
 
 
 
